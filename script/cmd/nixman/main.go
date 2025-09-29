@@ -1,0 +1,3 @@
+package nixman
+
+func main(){}
